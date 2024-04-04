@@ -1,0 +1,6 @@
+classes= 1
+train  = C:/NN/yolov3/content/yolov3tiny_oninoff/train.txt
+valid  = C:/NN/yolov3/content/yolov3tiny_oninoff/valid.txt
+test  = C:/NN/yolov3/content/yolov3tiny_oninoff/test.txt
+names = C:/NN/yolov3/content/yolov3tiny_oninoff/obj.names
+backup = backup/
